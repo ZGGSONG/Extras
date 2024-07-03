@@ -1,5 +1,5 @@
 {
-    "version": "8.0.0",
+    "version": "8.0.3",
     "description": "Volunteer scientific or grid computing client",
     "homepage": "https://boinc.berkeley.edu/",
     "license": "LGPL-3.0-or-later",
@@ -11,8 +11,8 @@
     "persist": "data",
     "architecture": {
         "64bit": {
-            "url": "https://boinc.berkeley.edu/dl/boinc_8.0.0_windows_x86_64.exe#/dl.exe",
-            "hash": "11b345a3d0fd05b19c4671226940bb69566934fa987334a31a0a9b6b479f6621"
+            "url": "https://boinc.berkeley.edu/dl/boinc_8.0.3_windows_x86_64.exe#/dl.exe",
+            "hash": "eaf21f9cb78e2f5564a139d6cccd5a167006a79c13ed275d03a4674d8e45b9af"
         },
         "32bit": {
             "url": "https://boinc.berkeley.edu/dl/boinc_7.16.3_windows_intelx86.exe#/dl.exe",

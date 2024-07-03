@@ -1,13 +1,13 @@
 {
-    "version": "1716242337",
+    "version": "1718904263",
     "description": "A command-line version of the Steam client",
     "homepage": "https://developer.valvesoftware.com/wiki/SteamCMD",
     "license": {
         "identifier": "Freeware",
         "url": "https://developer.valvesoftware.com/wiki/Valve_Developer_Community:Terms_of_Use"
     },
-    "url": "http://cdn.steamstatic.com/client/steamcmd_win32.zip.338cdb5dc5f6ed292e1e5be1c9f4bdd47899dcdd#/dl.7z",
-    "hash": "bff441f347ec41790220467db9410643d2b66b2395c876863e3c28d65170f823",
+    "url": "http://cdn.steamstatic.com/client/steamcmd_win32.zip.1ead4187d9888fc491447c60cad5f68118f0592c#/dl.7z",
+    "hash": "b2032e31ae8061f263ee75cc4134f4198320ab647aecf1b622f55bb7a8dd0406",
     "bin": "steamcmd.exe",
     "persist": [
         "appcache",

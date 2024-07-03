@@ -1,6 +1,6 @@
 {
     "##": "Renaming .msi to .msi_ to avoid auto extraction",
-    "version": "2.6.10-I002",
+    "version": "2.6.11-I002",
     "description": "A flexible virtual private network (VPN) solution to secure data communications.",
     "homepage": "https://openvpn.net",
     "license": "GPL-2.0-only",
@@ -9,16 +9,16 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.10-I002-amd64.msi#/setup.msi_",
-            "hash": "b5ce897165dd69670e963826133a28d3d1b9b5a6e86b7a6820bb890cd1cd16ed"
+            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.11-I002-amd64.msi#/setup.msi_",
+            "hash": "8c75f88355da5ee3fb02cec4717e5fec54a82798d012e0ef8283cff647d7ed08"
         },
         "32bit": {
-            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.10-I002-x86.msi#/setup.msi_",
-            "hash": "738348f59b669c2eede77867f55d50f5b06f39bf49938e70dfadb7de75b5e787"
+            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.11-I002-x86.msi#/setup.msi_",
+            "hash": "69b5ed2cc34df93d4388e051a75f84910551160c60b5023b66554486284a85b9"
         },
         "arm64": {
-            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.10-I002-arm64.msi#/setup.msi_",
-            "hash": "79ebd98f3daa0761767d848064d78f294708f3f73e7b155538626e171255703d"
+            "url": "https://swupdate.openvpn.org/community/releases/OpenVPN-2.6.11-I002-arm64.msi#/setup.msi_",
+            "hash": "f0b916ef916fca02c2ed2d13cf8481177fa7e5381c746d7c232bf093c0540640"
         }
     },
     "pre_install": [
