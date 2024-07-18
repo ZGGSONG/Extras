@@ -1,20 +1,20 @@
 {
-    "version": "0.9.84",
+    "version": "0.9.92",
     "description": "Text-based desktop environment",
     "homepage": "https://github.com/directvt/vtm",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/directvt/vtm/releases/download/v0.9.84/vtm_windows_x86_64.zip",
-            "hash": "1ea66e4b11f7c2a99adce53215bd9ef03a078c63d499d2d683be982390fc8c3d"
+            "url": "https://github.com/directvt/vtm/releases/download/v0.9.92/vtm_windows_x86_64.zip",
+            "hash": "071485377819f3747b1f2606a49ecd9aae10f2823b731e6e7d5f5d1e385d2f6d"
         },
         "32bit": {
-            "url": "https://github.com/directvt/vtm/releases/download/v0.9.84/vtm_windows_x86.zip",
-            "hash": "c6e1842dc6e5ce6ce16c2b90bdbc0518c7bfecb715e82679da932fb11b32d3bc"
+            "url": "https://github.com/directvt/vtm/releases/download/v0.9.92/vtm_windows_x86.zip",
+            "hash": "7c9952ec00e116f80b578779c05b892481e55c55750704eb5e90f952a8abd452"
         },
         "arm64": {
-            "url": "https://github.com/directvt/vtm/releases/download/v0.9.84/vtm_windows_arm64.zip",
-            "hash": "9a1689ab6febfe40444adde4ff8468ad0ec8e267885a0c3a6973a5aa8df1d826"
+            "url": "https://github.com/directvt/vtm/releases/download/v0.9.92/vtm_windows_arm64.zip",
+            "hash": "faef9c437bbe6e6722c3c8de15d04586b44da04aff7994f0adeac8d5b47e4fbb"
         }
     },
     "bin": "vtm.exe",
