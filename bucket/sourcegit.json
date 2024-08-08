@@ -1,0 +1,35 @@
+{
+    "version": "8.24",
+    "description": "Open-source GUI client for git users.",
+    "homepage": "https://github.com/sourcegit-scm/sourcegit",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v8.24/sourcegit_8.24.win-x64.zip",
+            "hash": "b2e3c5ac4e6259d8387a44def42ea49fa93cb615203e580bf3c6e816cee875fc"
+        },
+        "arm64": {
+            "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v8.24/sourcegit_8.24.win-arm64.zip",
+            "hash": "701cb29771166816b74fd5bb2f38e6cb15fd6a8810b66206aed32c93767e359a"
+        }
+    },
+    "extract_dir": "SourceGit",
+    "bin": "SourceGit.exe",
+    "shortcuts": [
+        [
+            "SourceGit.exe",
+            "SourceGit"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-x64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/sourcegit-scm/sourcegit/releases/download/v$version/sourcegit_$version.win-arm64.zip"
+            }
+        }
+    }
+}
