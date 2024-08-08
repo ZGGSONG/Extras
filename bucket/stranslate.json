@@ -1,12 +1,12 @@
 {
-    "version": "1.1.6.704",
+    "version": "1.1.7.808",
     "description": "A ready-to-use, ready-to-go translation and OCR tool developed by WPF",
     "homepage": "https://stranslate.zggsong.com",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ZGGSONG/STranslate/releases/download/1.1.6.704/STranslate_1.1.6.704_win-x64_7z.7z",
-            "hash": "5b23bcae20066593f8af5cd0ff655c55b1e328a0866524cc77a8528bd3be51cf"
+            "url": "https://github.com/ZGGSONG/STranslate/releases/download/1.1.6.704/STranslate_1.1.7.808_win-x64_7z.7z",
+            "hash": "89e938f8c508edede903cd378fc66b0c3f847c97cd9889b76fcdd99a0f2e435a"
         }
     },
     "shortcuts": [
